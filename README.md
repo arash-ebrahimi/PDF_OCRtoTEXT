@@ -2,6 +2,6 @@
 
 This sample code shows how we can combine OCR to read characters from an image and convert them to a text file.
 
-![image info](https://minio-z1zgcp.chbk.run/tebax/RAJAEE/ROPACS_IMAGES/11.png)
+<img src="https://minio-z1zgcp.chbk.run/tebax/RAJAEE/ROPACS_IMAGES/11.png">
 
 This text file can be used as input to an LLM system. The output of this LLM could be labelled data that can be used for classification of images uploaded to the RO-PACS data centre.
