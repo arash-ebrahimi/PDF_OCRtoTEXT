@@ -4,4 +4,4 @@ This sample code shows how we can combine OCR to read characters from an image a
 
 <img src="https://minio-z1zgcp.chbk.run/tebax/RAJAEE/ROPACS_IMAGES/11.png" style="height:150px;">
 
-This text file can be used as input to an LLM system. <a href="https://www.ghatreh.com/">tst</a>The output of this LLM could be labelled data that can be used for classification of images uploaded to the RO-PACS data centre.
+This text file can be used as input to an LLM system. The output of this LLM could be labelled data that can be used for classification of images uploaded to the RO-PACS data centre.
