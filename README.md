@@ -1,5 +1,4 @@
-**Convert a complicated PDF specially when came from an Hispital for contribution on RO-PACS.**
+**Convert a complicated PDF especially when it came from a hospital for posting on RO-PACS.**.
 
-This sample code demontrates how we can combine OCR to read characters from an image and convert them to a text file.
-This Text file can be used for an input to a LLM system. The output of that LLM could be a labeld data that can be used as classification of Uploaded Images to the RO-PACS Data Center.
-
+This sample code shows how we can combine OCR to read characters from an image and convert them to a text file.
+This text file can be used as input to an LLM system. The output of this LLM could be labelled data that can be used for classification of images uploaded to the RO-PACS data centre.
